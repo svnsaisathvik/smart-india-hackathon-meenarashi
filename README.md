@@ -59,11 +59,3 @@ elif result == 0:
 else:
     print("Defective medicine (tampered or smudged)")
 ```
-
-## Contributing
-
-Feel free to contribute by forking this project and submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License.
